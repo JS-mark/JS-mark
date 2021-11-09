@@ -1,4 +1,4 @@
-<p align="center"><a href="https://JS-mark.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://JS-mark.github.io"><img width="80%" src="./assets/readme-header.png" /></a></p>
 
 <br />
 
