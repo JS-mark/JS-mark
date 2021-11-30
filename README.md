@@ -32,6 +32,3 @@ I'm a self-taught passionate FrontEnd developer from China 🇨🇳
 <a href="https://github.com/JS-mark/vite-plugin-mdebug">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JS-mark&repo=vite-plugin-mdebug&theme=buefy" />
 </a>
-<a href="https://github.com/JS-mark/Js-mark.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JS-mark&repo=JS-mark.github.io&theme=buefy" />
-</a>
