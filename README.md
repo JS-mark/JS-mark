@@ -29,7 +29,7 @@ I'm a self-taught passionate FrontEnd developer from China 🇨🇳
 <a href="https://github.com/Vapor-Team/ce-ui">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vapor-Team&repo=ce-ui&theme=buefy" />
 </a>
-<a href="https://github.com/JS-mark/Js-mark.github.io">
+<a href="https://github.com/JS-mark/vite-plugin-mdebug">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JS-mark&repo=vite-plugin-mdebug&theme=buefy" />
 </a>
 <a href="https://github.com/JS-mark/Js-mark.github.io">
