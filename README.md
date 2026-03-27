@@ -4,7 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm JS.Mark</h1>
 
-
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=console.log(%22Hello+World!%22)" alt="Typing SVG" /></a>
@@ -48,11 +47,11 @@
 
 #### Top Repositories
 
-<a href="https://github.com/Vapor-Team/ce-ui">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Js-mark&repo=super-client-r&theme=buefy" />
+<a href="https://github.com/JS-mark/super-client-r">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JS-mark&repo=super-client-r&theme=buefy" />
 </a>
-<a href="https://github.com/Vapor-Team/ce-ui">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Js-mark&repo=skills&theme=buefy" />
+<a href="https://github.com/JS-mark/skills">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JS-mark&repo=skills&theme=buefy" />
 </a>
 <a href="https://github.com/JS-mark/vite-plugin-mdebug">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JS-mark&repo=vite-plugin-mdebug&theme=buefy" />
