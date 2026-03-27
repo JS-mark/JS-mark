@@ -48,11 +48,11 @@
 #### Top Repositories
 
 <a href="https://github.com/JS-mark/super-client-r">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JS-mark&repo=super-client-r&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-js-mark.vercel.app/api/pin/?username=JS-mark&repo=super-client-r&theme=buefy" />
 </a>
 <a href="https://github.com/JS-mark/skills">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JS-mark&repo=skills&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-js-mark.vercel.app/api/pin/?username=JS-mark&repo=skills&theme=buefy" />
 </a>
 <a href="https://github.com/JS-mark/vite-plugin-mdebug">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JS-mark&repo=vite-plugin-mdebug&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-js-mark.vercel.app/api/pin/?username=JS-mark&repo=vite-plugin-mdebug&theme=buefy" />
 </a>
